@@ -2,6 +2,8 @@
 
 aws_secrets : getto-psycher vendor plugin
 
+status: production ready
+
 ```javascript
 const aws_secrets = require("getto-aws_secrets").init({
   region: "AWS-REGION",
